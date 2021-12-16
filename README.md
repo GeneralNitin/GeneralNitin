@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my DevOps Assignment
+- 🌱 I’m currently learning Spring Boot and Angular
+- 👯 I’m looking to collaborate on anything open-source
+- 🤔 I’m looking for help with javascript
+- 📫 How to reach me: Figure it out, i check my mails daily 🤭
+- ⚡ Fun fact: @kumarniti4 is my another account
+
 
 <!--
 **GeneralNitin/GeneralNitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
