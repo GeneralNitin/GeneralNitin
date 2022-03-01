@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Hobby Projects and Preparing for interviews
+- 🔭 I’m currently working on my Hobby Projects
 - 🌱 I’m currently learning CQRS Design Pattern and SAP UI5
 - 👯 I’m looking to collaborate on anything open-source
 - 🤔 I’m looking for help with javascript
